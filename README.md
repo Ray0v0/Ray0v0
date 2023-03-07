@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ray0v0
-- 👀 I’m interested in (I don't exactly know now, but I think I will figure out oneday)
-- 🌱 I’m currently learning python
+- 👀 I’m studying in SUSTech
+- 🌱 I’m currently learning Java
 
 <!---
 Ray0v0/Ray0v0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
