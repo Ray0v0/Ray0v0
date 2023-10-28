@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Ray0v0
 - 👀 I’m studying in SUSTech
-- 🌱 I’m currently learning Java
 
 I'm a new being to Github, and also a new being of using git, so there may be some strange or broken repositories under my account.
 
